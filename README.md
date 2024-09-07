@@ -25,7 +25,7 @@
 <p>
   Eu sou Mateus 😎! Um apaixonado por tecnologia, especializando-me em Garantia de Qualidade (QA),📍 Portugal.
 
-  - 🌱 Atualmente estou cursando Quality Assurance (QA) Experience na DIO e Engenharia de Software na Anhanguera. <img align="center" alt="html5" src= "https://raw.githubusercontent.com/digitalinnovationone/dio-lab-open-source/main/docs/favicon.ico" />
+  - 🌱 Atualmente cursando Quality Assurance (QA) Experience na DIO e Engenharia de Software na Anhanguera. <img align="center" alt="html5" src= "https://raw.githubusercontent.com/digitalinnovationone/dio-lab-open-source/main/docs/favicon.ico" />
 
   - 🔭 Estou procurando minha primeira oportunidade. 
 </p>
