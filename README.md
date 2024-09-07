@@ -104,7 +104,7 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=blacktarget="_blank")](https://buymeacoffee.com/mateusmanod)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()<a href="https://buymeacoffee.com/mateusmanod" target="_blank">
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mateusmanoelb009@gmail.com) 
 
 
