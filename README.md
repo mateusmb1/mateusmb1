@@ -47,8 +47,8 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬Tenho 34 anos, atualmente moro em portugal.
-🏢 Analista de Suporte Técnico | Operador de Sistema | Analista de Instrumentação Porto, Portugal
+  - 💬Tenho 34 anos, casado, pai de um garotão de 7 anos, desfrutando de morar no interior, no norte de portugal.
+  - 🏢 Analista de Suporte Técnico | Operador de Sistema | Analista de Instrumentação Porto, Portugal
 
 Com uma trajetória sólida em suporte técnico e gerenciamento de serviços de TI, tenho liderado
 equipes e implementação de processos para garantir a satisfação do cliente e eficiência operacional. Meu histórico inclui:
