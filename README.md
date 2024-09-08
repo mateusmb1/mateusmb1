@@ -62,9 +62,9 @@ equipes e implementação de processos para garantir a satisfação do cliente e
 Além disso, minha jornada incluiu experiência como Operador de Sistema na Webtecsistemas, onde atuei no suporte, implantação e treinamento de software de gestão de farmácia.
 
 Atualmente, estou aprimorando minhas habilidades em desenvolvimento de software com ênfase em Quality Assurance (QA) Experience, pela DIO (digital Innovation One), onde imersos
-com especialistas em Quality Assurance (QA), onde apresentaremos técnicas de automação e testes na prática. Sendo assim, nesta formação tenho uma visão geral do que é necessário para
+com especialistas em Quality Assurance (QA), nos apresentam técnicas de automação e testes na prática. Sendo assim, nesta formação tenho uma visão geral do que é necessário para
 se tornar um profissional de QA extremamente avançado, o que inclui um Roadmap para uma das principais certificações desta área (CTFL). Por fim, conteúdos mais avançados, para
-aprender algumas abordagens de testes em diferentes pilhas de desenvolvimento, com atividades de desafio de código e desafio de projeto. 
+aprender algumas abordagens de testes em diferentes pilhas de desenvolvimento, com atividades de desafio de código e desafio de projeto.
 
   - ⚡Gosto de fazer atividades fizicas, esportes, academia, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
