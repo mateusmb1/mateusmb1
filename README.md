@@ -53,11 +53,11 @@
 Com uma trajetória sólida em suporte técnico e gerenciamento de serviços de TI, tenho liderado
 equipes e implementação de processos para garantir a satisfação do cliente e eficiência operacional. Meu histórico inclui:
 
-🌐 Gerenciamento de clientes com SLAs, KPIs e feedback, garantindo a eficiência dos serviços.
-🛠️ Desenvolvimento e implementação de processos para melhorias contínuas.
-📊 Acompanhamento e interpretação de indicadores operacionais para ações preventivas e corretivas.
-🔧 Implantação de planos de ação para correção de desvios e garantia do cumprimento de indicadores.
-🤝 Estabelecimento de acordos de nível de serviço e resolução de reclamações de clientes.
+🌐 Gerenciamento de clientes com SLAs, KPIs e feedback, garantindo a eficiência dos serviços.</b>
+🛠️ Desenvolvimento e implementação de processos para melhorias contínuas.</b>
+📊 Acompanhamento e interpretação de indicadores operacionais para ações preventivas e corretivas.</b>
+🔧 Implantação de planos de ação para correção de desvios e garantia do cumprimento de indicadores.</b>
+🤝 Estabelecimento de acordos de nível de serviço e resolução de reclamações de clientes.</b>
 
 Além disso, minha jornada incluiu experiência como Operador de Sistema na Webtecsistemas, onde atuei no suporte, implantação e treinamento de software de gestão de farmácia.
 
